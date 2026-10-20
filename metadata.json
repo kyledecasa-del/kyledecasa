@@ -1,0 +1,8 @@
+{
+  "name": "AuraFit AI Tracker",
+  "description": "AI-powered fitness tracker with real-time intensity adjustment, recovery metrics, nutrition tracking, wearable device sync, social challenges, and AI weekly progress reports.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
